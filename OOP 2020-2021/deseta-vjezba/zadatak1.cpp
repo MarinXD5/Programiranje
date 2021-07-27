@@ -67,7 +67,7 @@ int main()
 	int a, b;
 	char o;
 
-	fstream fp("error.log");
+	fstream fp("error.log", ios::app);
 
 	while (1) {
 		try {
