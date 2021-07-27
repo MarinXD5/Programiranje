@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1619283031 source:c:\users\marin\desktop\lab07\mainzadatak.cpp
+	"zadatak.h"
+	<cstdlib>
+	<iostream>
+
+1619282827 c:\users\marin\desktop\lab07\zadatak.h
+
+1619282933 source:c:\users\marin\desktop\lab07\zadatak.cpp
+	"zadatak.h"
+	<iostream>
+	<cstdlib>
+
+1619283031 source:c:\users\marin\desktop\antifalx-vjezbe\lab07\mainzadatak.cpp
+	"zadatak.h"
+	<cstdlib>
+	<iostream>
+
+1619805144 c:\users\marin\desktop\antifalx-vjezbe\lab07\zadatak.h
+
+1619805099 source:c:\users\marin\desktop\antifalx-vjezbe\lab07\zadatak.cpp
+	"zadatak.h"
+	<iostream>
+	<cstdlib>
+

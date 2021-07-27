@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1615823728 source:c:\users\legion\desktop\lab02\zadatak5.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+
+1615650372 source:c:\users\legion\desktop\lab02\zadatak4.cpp
+	<cstdlib>
+	<iostream>
+
+1615650529 source:c:\users\legion\desktop\lab02\zadatak3.cpp
+	<iostream>
+
+1615651857 source:c:\users\legion\desktop\lab02\zadatak2.cpp
+	<iostream>
+	<cstdlib>
+
+1615844878 source:c:\users\legion\desktop\lab02\zadatak6.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+
