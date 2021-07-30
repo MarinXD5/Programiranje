@@ -17,6 +17,6 @@ int main() {
 	cin >> metar_kubicni;
 
 	fp << ctime(&now);
-	fp << metar_kubicni;
+	fp << metar_kubicni << "m3";
 	fp << endl;
 }
