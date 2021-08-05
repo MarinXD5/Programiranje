@@ -3,34 +3,18 @@
 #include <ctime>
 
 using namespace std;
-
-void print(char* pass, int arrayLength)
-{
-	for (int i = 0; i < arrayLength; i++) {
-		cout << pass[i];
-	}
-}
+const char alphanum[] = "0123456789!@#$%^&*abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+int stringLength = sizeof(alphanum) - 1;
 
 int main() {
-	int arrayLength, random_number;
-	char* password;
-	char c;
-	srand(time(NULL));
+	int arrayLength;
+	srand(time(0));
 
-	cout << "Welcome to Password generator v1.0" << endl;
+	cout << "Welcome to Password generator v2.0" << endl;
 	cout << "Please enter the amount of characters you want your password to have: ";
 	cin >> arrayLength;
 
-	password = new char[arrayLength];
-
 	for (int i = 0; i < arrayLength; i++) {
-		random_number = rand() % 26;
-		c = 'a' + random_number;
-		password[i] = c;
+		cout << alphanum[rand() % stringLength];
  	}
-
-	print(password, arrayLength);
-
-	delete password;
-
 }
