@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Anketa</title>
+		<meta charset = "UTF-8">
+		<style>
+			#pitanje1{
+			border-style: solid;
+			border-color: green;
+			}
+			#pitanje2{
+			border-style: dotted;
+			border-color: blue;
+			}
+			#pitanje3{
+			border-style: ridge;
+			border-color: yellow;
+			}
+			#pitanje4{
+			border-style: double;
+			border-color: gray;
+			}
+			#pitanje5{
+			border-style: groove;
+			border-color: lime;
+			}
+			#pitanje6{
+			border-style: inset;
+			border-color: red;
+			}
+		</style>
+		
+	</head>
+	<body>
+		<form>
+		
+			<class id = "pitanje1">
+			<h2>Najbolje mjesto za putovanje je: </h2>
+			Amsterdam <input type = "checkbox" name = "Destinacija" value = "Amsterdam"> <br>
+			Abu Dhabi <input type = "checkbox" name = "Destinacija" value = "Abu Dhabi"> <br>
+			Zagreb <input type = "checkbox" name = "Destinacija" value = "Zagreb"> <br>
+			Peking <input type = "checkbox" name = "Destinacija" value = "Peking"> <br>
+			Pyongyang <input type = "checkbox" name = "Destinacija" value = "Pyongyang"> <br>
+			Sydney <input type = "checkbox" name = "Destinacija" value = "Sydney"> <br>
+			Paris <input type = "checkbox" name = "Destinacija" value = "Paris">
+			</class>
+			
+			<class id = "pitanje2">
+			<h2>Najbolje jelo je: </h2>
+			<select name = "Jelo">
+			<option value = "Curry Massaman"> Curry Massaman</option>
+			<option value = "Pizza Napoletana"> Pizza Napoletana </option>
+			<option value = "Sushi"> Sushi </option>
+			<option value = "Hamburger"> Hamburger </option>
+			<option value = "Ramen"> Ramen </option>
+			</select>
+			</class>
+
+			<class id = "pitanje3">
+			<h2>Najoptimalniji broj mobitela je: </h2>
+			<input type = "radio" name = "mobitel" value = "0" > 0 <br>
+			<input type = "radio" name = "mobitel" value = "1" > 1 <br>
+			<input type = "radio" name = "mobitel" value = "2" > 2 <br>
+			<input type = "radio" name = "mobitel" value = "3" > 3 <br>
+			<input type = "radio" name = "mobitel" value = "4" > 4
+			</class>
+			
+			<class id = "pitanje4">
+			<h2>Automobil kojeg bih najradije vozio/la: </h2>
+			<input type = "text" name = "Ime automobila" placeholder = "Ime automobila" >
+			</class>
+			
+			<class id = "pitanje5">
+			<h2>Najtisi kucni ljubimac je: </h2>
+			<input type = "button" value = "Pas">
+			<input type = "button" value = "Macka">
+			<input type = "button" value = "Ribice">
+			<input type = "button" value = "Papiga">
+			<input type = "button" value = "Mravi">
+			</class>
+			
+			<class id = "pitanje6">
+			<h2>Najdrazi citat </h2>
+			<p> U donji kvadrat upisite najdrazi citat </p>
+			<textarea rows = "10" cols = "30"> Ovdje upisite text: </textarea>
+			</class>
+			
+		</form>
+	</body>
+</html>
