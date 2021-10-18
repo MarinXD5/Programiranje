@@ -1,0 +1,17 @@
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.exe
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.deps.json
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.runtimeconfig.json
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.runtimeconfig.dev.json
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.dll
+C:\Users\marin\source\repos\ToDo List\ToDo List\bin\Debug\netcoreapp3.1\ToDo List.pdb
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.csproj.GenerateResource.cache
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.AssemblyInfo.cs
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.dll
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.pdb
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo List.genruntimeconfig.cache
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo_List.ToDoList.resources
+C:\Users\marin\source\repos\ToDo List\ToDo List\obj\Debug\netcoreapp3.1\ToDo_List.Properties.Resources.resources
